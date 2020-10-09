@@ -1,0 +1,4 @@
+#Fri Feb 21 14:39:24 WAT 2020
+base.0=E\:\\Mes Projets Mobile\\Coachpro\\Android\\Gen\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

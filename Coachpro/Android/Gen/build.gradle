@@ -1,0 +1,122 @@
+buildscript {
+	repositories {
+		google()
+		jcenter()
+	}
+
+	dependencies {
+		classpath 'com.android.tools.build:gradle:3.1.0'
+
+	}
+}
+repositories {
+	google()
+	jcenter()
+	flatDir {
+		dirs getProject().file('libs')
+	}
+
+}
+apply plugin: 'com.android.application'
+archivesBaseName = 'Coachpro'
+android {
+	compileSdkVersion 28
+	buildToolsVersion '28.0.2'
+	useLibrary 'org.apache.http.legacy'
+	
+	defaultConfig {
+		applicationId "com.masociete.coachpro"
+	}
+
+	sourceSets {
+		main {
+			manifest.srcFile getProject().file('AndroidManifest.xml')
+			java.srcDirs = [getProject().file('src')]
+			resources.srcDirs = [getProject().file('src')]
+			res.srcDirs = [getProject().file('res')]
+			assets.srcDirs = [getProject().file('assets')]
+			aidl.srcDirs = [getProject().file('src')]
+			jniLibs.srcDirs = [getProject().file('libs')]
+		}
+	}
+	compileOptions {
+		sourceCompatibility JavaVersion.VERSION_1_6
+		targetCompatibility JavaVersion.VERSION_1_6
+    }
+	lintOptions {
+		abortOnError false
+	}
+	signingConfigs {
+		release {
+			
+			storePassword ''
+			keyAlias ''
+			keyPassword ''			
+		}
+	}
+	aaptOptions {
+		noCompress 'FNC'
+	}
+	
+android {
+	dexOptions {
+		preDexLibraries = false
+		jumboMode = false
+		javaMaxHeapSize = '3072m'
+    }
+
+}
+	buildTypes {
+		debug {
+		zipAlignEnabled true
+		minifyEnabled false
+		proguardFile file('prg.dat')
+        multiDexEnabled false
+
+		}
+		release {
+		zipAlignEnabled true
+		signingConfig signingConfigs.release
+		minifyEnabled false
+		proguardFile file('prg.dat')
+		multiDexEnabled false
+
+		}
+		applicationVariants.all { variant ->  
+			variant.outputs.each { output ->
+				// Customise APK filenames (to include build version)
+				if (variant.buildType.zipAlignEnabled) {
+					output.outputFileName = new File(archivesBaseName + ".apk")
+				}
+			}
+		}
+	}
+
+}
+
+dependencies {
+	// Remote binary dependency
+	implementation 'com.android.support:support-v4:27.1.+'
+	implementation 'com.android.support:appcompat-v7:27.1.+'
+
+	// Local binary dependency
+	implementation fileTree(dir: getProject().file('libs'), include: ['*.jar'], exclude: 'libs/fmkJava.jar')
+	implementation files(getProject().file('libs/fmkJava.jar'))
+
+}
+
+gradle.projectsEvaluated {
+	preBuild.dependsOn(makeJar)
+	tasks.withType(JavaCompile) {
+		options.warnings = false
+	}
+}
+
+task makeJar(type: Jar) {
+baseName = 'fmkJava'
+destinationDir=getProject().file('libs')
+from fileTree(dir: getProject().file('libs'), include: ['**/*.class'])
+outputs.upToDateWhen {
+        archivePath.exists()
+    }
+}

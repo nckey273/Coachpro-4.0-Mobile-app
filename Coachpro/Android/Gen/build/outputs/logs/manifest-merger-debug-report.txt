@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1-3336
+INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1-3336
+INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1-3336
+INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1-3336
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d50f12ad831cff4cfac866445c78929b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d615439464285767634a0cdfea1e4cb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ffc053a98c2c8cfb5578dacbe7ee6624\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dde367ea4f6e1646c3b47ffbefb7b83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\41bd8aff032bd11e2a78c7a41561d203\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a43e9951548216d4a3747c5f74b933c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7e1e39be5fa05b31767c07159a28848\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40fc0e188b2e668a353952594066e07b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a6e3288522071cd08d1153390b35276e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0f4aa8c229f1e91b9d83eb411c495a05\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3caaddf6e2462d254fa4ab094af4cccd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63d3e36603e7d9f6f65a504529f04bcf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d07ee04dc53740b8d769fcb6c3f46991\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1-3336
+INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1-3336
+INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1-3336
+	package
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:70-102
+		INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml
+		INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:103-133
+		INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml
+		INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:134-158
+		INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml
+		INJECTED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:159-189
+application
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:190-2569
+	android:label
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:265-297
+	android:resizeableActivity
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:366-399
+	android:largeHeap
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:340-364
+	android:icon
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:298-339
+	android:usesCleartextTraffic
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:400-435
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:203-264
+activity#com.masociete.coachpro.wdgen.GWDPCoachpro$WDLanceur
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:436-848
+	android:label
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:491-523
+	android:configChanges
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:593-695
+	android:theme
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:524-592
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:446-490
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:696-837
+action#android.intent.action.MAIN
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:711-762
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:719-760
+category#android.intent.category.LAUNCHER
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:762-821
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:772-819
+activity#com.masociete.coachpro.wdgen.GWDFmain_fn$WDActiviteFenetre
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:848-1087
+	android:hardwareAccelerated
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1050-1085
+	android:configChanges
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:910-1012
+	android:theme
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1013-1049
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:858-909
+uses-library#org.apache.http.legacy
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1087-1165
+	android:required
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1139-1163
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1101-1138
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1165-1353
+	xmlns:android
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1175-1233
+	android:theme
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1303-1351
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1234-1302
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1353-1553
+	xmlns:android
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1363-1421
+	android:theme
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1495-1551
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1422-1494
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1553-1897
+	android:label
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1684-1716
+	xmlns:android
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1563-1621
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1622-1683
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1717-1801
+action#android.intent.action.SEARCH
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1732-1785
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1740-1783
+meta-data#android.app.searchable
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1801-1886
+	android:resource
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1850-1884
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1812-1849
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1897-2098
+	android:authorities
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2052-2096
+	android:exported
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2027-2051
+	xmlns:android
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1907-1965
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:1966-2026
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2098-2168
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2107-2166
+meta-data#fr.pcsoft.first_window_name
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2168-2247
+	android:value
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2222-2245
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2179-2221
+meta-data#fr.pcsoft.first_window_name_tablet
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2247-2326
+	android:value
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2308-2324
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2258-2307
+meta-data#fr.pcsoft.splash_orientation_phone
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2326-2406
+	android:value
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2387-2404
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2337-2386
+meta-data#fr.pcsoft.splash_orientation_tablet
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2406-2487
+	android:value
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2468-2485
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2417-2467
+meta-data#fr.pcsoft.multidex
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2487-2555
+	android:value
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2532-2553
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2498-2531
+uses-sdk
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2569-2637
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d50f12ad831cff4cfac866445c78929b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d50f12ad831cff4cfac866445c78929b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d615439464285767634a0cdfea1e4cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d615439464285767634a0cdfea1e4cb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ffc053a98c2c8cfb5578dacbe7ee6624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ffc053a98c2c8cfb5578dacbe7ee6624\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dde367ea4f6e1646c3b47ffbefb7b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7dde367ea4f6e1646c3b47ffbefb7b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\41bd8aff032bd11e2a78c7a41561d203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\41bd8aff032bd11e2a78c7a41561d203\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a43e9951548216d4a3747c5f74b933c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a43e9951548216d4a3747c5f74b933c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7e1e39be5fa05b31767c07159a28848\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b7e1e39be5fa05b31767c07159a28848\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40fc0e188b2e668a353952594066e07b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\40fc0e188b2e668a353952594066e07b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a6e3288522071cd08d1153390b35276e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a6e3288522071cd08d1153390b35276e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0f4aa8c229f1e91b9d83eb411c495a05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0f4aa8c229f1e91b9d83eb411c495a05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3caaddf6e2462d254fa4ab094af4cccd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3caaddf6e2462d254fa4ab094af4cccd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63d3e36603e7d9f6f65a504529f04bcf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63d3e36603e7d9f6f65a504529f04bcf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d07ee04dc53740b8d769fcb6c3f46991\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Zarrouki\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d07ee04dc53740b8d769fcb6c3f46991\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2606-2635
+	android:minSdkVersion
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2579-2605
+supports-screens
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2637-2796
+	android:largeScreens
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2712-2739
+	android:smallScreens
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2655-2682
+	android:normalScreens
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2683-2711
+	android:xlargeScreens
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2740-2768
+	android:anyDensity
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2769-2794
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2796-2871
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2813-2869
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2871-2939
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2888-2937
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2939-3014
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:2956-3012
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3014-3076
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3031-3074
+uses-feature#android.hardware.location.network
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3076-3164
+	android:required
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3139-3162
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3090-3138
+uses-feature#android.hardware.bluetooth
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3164-3245
+	android:required
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3220-3243
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3178-3219
+uses-feature#android.hardware.location
+ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3245-3325
+	android:required
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3300-3323
+	android:name
+		ADDED from E:\Mes Projets Mobile\Coachpro\Android\Gen\AndroidManifest.xml:2:3259-3299
